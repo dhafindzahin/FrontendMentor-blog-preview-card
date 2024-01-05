@@ -49,6 +49,10 @@ body {
     margin: 15px 0;
 }
 
+.title:hover {
+    color: hsl(47, 88%, 63%);
+}
+
 .description {
     font-size: 1em;
     color: hsl(0, 0%, 50%);
